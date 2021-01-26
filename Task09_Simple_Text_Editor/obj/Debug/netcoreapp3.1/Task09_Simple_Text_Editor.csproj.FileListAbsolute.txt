@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task09_Simple_Text_Editor\bin\Debug\netcoreapp3.1\Task09_Simple_Text_Editor.exe
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task09_Simple_Text_Editor\bin\Debug\netcoreapp3.1\Task09_Simple_Text_Editor.deps.json
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task09_Simple_Text_Editor\bin\Debug\netcoreapp3.1\Task09_Simple_Text_Editor.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task09_Simple_Text_Editor\bin\Debug\netcoreapp3.1\Task09_Simple_Text_Editor.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task09_Simple_Text_Editor\bin\Debug\netcoreapp3.1\Task09_Simple_Text_Editor.dll
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task09_Simple_Text_Editor\bin\Debug\netcoreapp3.1\Task09_Simple_Text_Editor.pdb
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task09_Simple_Text_Editor\obj\Debug\netcoreapp3.1\Task09_Simple_Text_Editor.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task09_Simple_Text_Editor\obj\Debug\netcoreapp3.1\Task09_Simple_Text_Editor.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task09_Simple_Text_Editor\obj\Debug\netcoreapp3.1\Task09_Simple_Text_Editor.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task09_Simple_Text_Editor\obj\Debug\netcoreapp3.1\Task09_Simple_Text_Editor.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task09_Simple_Text_Editor\obj\Debug\netcoreapp3.1\Task09_Simple_Text_Editor.dll
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task09_Simple_Text_Editor\obj\Debug\netcoreapp3.1\Task09_Simple_Text_Editor.pdb
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task09_Simple_Text_Editor\obj\Debug\netcoreapp3.1\Task09_Simple_Text_Editor.genruntimeconfig.cache
