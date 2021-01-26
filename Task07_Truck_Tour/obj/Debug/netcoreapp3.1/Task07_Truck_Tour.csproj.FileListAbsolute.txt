@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task07_Truck_Tour\bin\Debug\netcoreapp3.1\Task07_Truck_Tour.exe
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task07_Truck_Tour\bin\Debug\netcoreapp3.1\Task07_Truck_Tour.deps.json
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task07_Truck_Tour\bin\Debug\netcoreapp3.1\Task07_Truck_Tour.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task07_Truck_Tour\bin\Debug\netcoreapp3.1\Task07_Truck_Tour.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task07_Truck_Tour\bin\Debug\netcoreapp3.1\Task07_Truck_Tour.dll
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task07_Truck_Tour\bin\Debug\netcoreapp3.1\Task07_Truck_Tour.pdb
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task07_Truck_Tour\obj\Debug\netcoreapp3.1\Task07_Truck_Tour.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task07_Truck_Tour\obj\Debug\netcoreapp3.1\Task07_Truck_Tour.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task07_Truck_Tour\obj\Debug\netcoreapp3.1\Task07_Truck_Tour.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task07_Truck_Tour\obj\Debug\netcoreapp3.1\Task07_Truck_Tour.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task07_Truck_Tour\obj\Debug\netcoreapp3.1\Task07_Truck_Tour.dll
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task07_Truck_Tour\obj\Debug\netcoreapp3.1\Task07_Truck_Tour.pdb
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task07_Truck_Tour\obj\Debug\netcoreapp3.1\Task07_Truck_Tour.genruntimeconfig.cache
