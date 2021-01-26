@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task06_Songs_Queue\obj\Debug\netcoreapp3.1\Task06_Songs_Queue.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task06_Songs_Queue\obj\Debug\netcoreapp3.1\Task06_Songs_Queue.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task06_Songs_Queue\obj\Debug\netcoreapp3.1\Task06_Songs_Queue.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task06_Songs_Queue\obj\Debug\netcoreapp3.1\Task06_Songs_Queue.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task06_Songs_Queue\bin\Debug\netcoreapp3.1\Task06_Songs_Queue.exe
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task06_Songs_Queue\bin\Debug\netcoreapp3.1\Task06_Songs_Queue.deps.json
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task06_Songs_Queue\bin\Debug\netcoreapp3.1\Task06_Songs_Queue.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task06_Songs_Queue\bin\Debug\netcoreapp3.1\Task06_Songs_Queue.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task06_Songs_Queue\bin\Debug\netcoreapp3.1\Task06_Songs_Queue.dll
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task06_Songs_Queue\bin\Debug\netcoreapp3.1\Task06_Songs_Queue.pdb
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task06_Songs_Queue\obj\Debug\netcoreapp3.1\Task06_Songs_Queue.dll
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task06_Songs_Queue\obj\Debug\netcoreapp3.1\Task06_Songs_Queue.pdb
+C:\Users\Kiril\Advanced_CSharp\01_Stacks_and_Queues_Exercises\Task06_Songs_Queue\obj\Debug\netcoreapp3.1\Task06_Songs_Queue.genruntimeconfig.cache
